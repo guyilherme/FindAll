@@ -1,5 +1,6 @@
 {
   "private": true,
+<<<<<<< HEAD
   "scripts": {
     "prod": "gulp --production",
     "dev": "gulp watch"
@@ -8,5 +9,13 @@
     "gulp": "^3.9.1",
     "laravel-elixir": "^5.0.0",
     "bootstrap-sass": "^3.3.0"
+=======
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "laravel-elixir": "^5.0.0",
+    "bootstrap-sass": "^3.0.0"
+>>>>>>> e74f3d4946a4955f7cbdec0be29a0d9a174ce6f6
   }
 }
